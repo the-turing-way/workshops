@@ -9,7 +9,7 @@ Add your name below next to a number using a pull request from your fork of [thi
 5. Cecilia Baldoni
 6. X
 7. X
-8. Catherine Upex
-9. X
+8. Léllé Demertzi
+9. Catherine Upex 
 10. X
 11. Arielle Bennett
