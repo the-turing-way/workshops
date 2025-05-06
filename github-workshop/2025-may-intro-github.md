@@ -6,7 +6,7 @@ Add your name below next to a number using a pull request from your fork of [thi
 2. X
 3. X
 4. X
-5. X
+5. Cecilia Baldoni
 6. X
 7. X
 8. X
