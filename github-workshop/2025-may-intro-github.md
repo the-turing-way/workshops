@@ -3,7 +3,7 @@
 Add your name below next to a number using a pull request from your fork of [this repository](https://github.com/the-turing-way/workshops)
 
 1. X
-2. X
+2. Sonja
 3. X
 4. X
 5. X
