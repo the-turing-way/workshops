@@ -10,5 +10,5 @@ Add your name below next to a number using a pull request from your fork of [thi
 6. X
 7. X
 8. X
-9. X
-10. Léllé Demertzi
+9. Léllé Demertzi
+10. X
