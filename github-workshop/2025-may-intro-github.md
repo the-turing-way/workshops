@@ -4,7 +4,7 @@ Add your name below next to a number using a pull request from your fork of [thi
 
 1. X
 2. X
-3. X
+3. Sofia Pires
 4. X
 5. X
 6. X
