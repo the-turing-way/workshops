@@ -5,7 +5,7 @@ Add your name below next to a number using a pull request from your fork of [thi
 1. X
 2. Sonja
 3. Sofia Pires
-4. X
+4. Moctar 
 5. Cecilia Baldoni
 6. X
 7. Caleb Ini. Duff
